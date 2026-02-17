@@ -79,9 +79,8 @@ We may update this Privacy Policy periodically. Updated versions will be posted 
 
 13. Contact Us
 For privacy questions or requests:
-Email: [privacy@yourdomain.com]
-Company: [Your Company Name]
-Address: [Your Business Address]
+Email: sanarmoor@gmail.com
+Phone:9866617356
 
 If you want, I can also create:
 
@@ -94,7 +93,7 @@ yes
 You can publish this on a simple web page and use its URL in Play Console.
 
 Privacy Policy – Multi Store POS
-Effective Date: [Insert Date]
+Effective Date: 17/02/2026
 
 Multi Store POS is a business point-of-sale application for managing orders, customers, inventory, printing, and reports.
 
@@ -120,8 +119,8 @@ Your Rights
 Depending on location, users may request access, correction, or deletion of data by contacting us.
 
 Contact
-Email: [privacy@yourdomain.com]
-Company: [Your Company Name]
+Email: sanarmoor@gmail.com
+Company: 9866617356
 
 2. Play Console Data Safety Mapping (Practical Checklist)
 Use this as a starting point while filling Google Play Data Safety.
