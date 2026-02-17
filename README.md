@@ -1,7 +1,7 @@
 Privacy Policy for Multi Store POS
-Effective Date: [Add Date]
+Effective Date: 17/02/2026
 App Name: Multi Store POS
-Developer/Company: [Your Company Name]
+Developer/Company:sanarmoor@gmail.com
 
 1. Overview
 Multi Store POS is a point-of-sale and store management application used to manage sales, inventory, customers, employees, printing, and reporting. This Privacy Policy explains what data we collect, how we use it, and your choices.
